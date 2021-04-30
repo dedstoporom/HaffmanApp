@@ -1,0 +1,11 @@
+
+
+Version:	3.14
+CmdLine:	D:\Documents\Java_projects\HaffmanApp\haff.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\Documents\Java_projects\HaffmanApp\.
+Java min ver:	
+Java max ver:	
+Bundled JRE(s):	1.8.0
+Check launcher:	D:\Documents\Java_projects\HaffmanApp\1.8.0\bin\javaw.exe (not found)
+Error msg:	This application requires a Java Runtime Environment.
